@@ -1,3 +1,3 @@
-string="bozayı barış brownie cheescake yiyor ama asla doymuyor"
+string="myCutieDog"
 print(string)
 
