@@ -1,0 +1,3 @@
+string="myCutieDog"
+print(string)
+
